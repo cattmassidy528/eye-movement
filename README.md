@@ -1,2 +1,2 @@
 # eye-movement
-this creepy nightmare project is sure to get attention. positive attenton? no, but attention nonetheless.
+this project sure kept me up all night. because javascript is challenging and also it is terrifying to behold.
